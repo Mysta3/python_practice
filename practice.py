@@ -1,14 +1,13 @@
-print("What is your name")
-name = input()
-# print(name)
-# reassign = name
+# Variables
+# hold a value and/or returned value
+# can contain numbers, objects, arrays, strings, etc.
 
-# if name == 'hello':
-#     print('Word')
-# else:
-#     print('You are ugly!')
+# YOU DO
+# Create 3 variables
+# reassign variables
+# Create a variable that holds a string
+# Create a variable that holds a number
+# Output all variables created to terminal
 
-# if name.lower() == 'hello':
-#     print('YOU GOT IT RIGHT')
-# else:
-#     print('ya motha')
+
+#
